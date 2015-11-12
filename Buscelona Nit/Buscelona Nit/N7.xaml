@@ -1,0 +1,73 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Buscelona_Nit.N7"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Control Pivot-->
+        <controls:Pivot Title="Buscelona Nit - N7">
+            <!--Elemento Pivot uno-->
+            <controls:PivotItem Header="Anada">
+                <Grid>
+                    <ListBox Name="anada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="Pl. Pedralbes" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. Reina Elisenda de Montcada" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Via Augusta" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Vergós" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Capità Arenas" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Gran Via Carles III" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Rda. General Mitre" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Via Augusta" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Calvet" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Villarroel" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="València" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Balmes" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pl. Catalunya" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. de Gràcia" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="València" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Lepant" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Av. Diagonal" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Castillejos" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Av. Meridiana" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Av. Diagonal" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. Taulat" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Elemento Pivot dos-->
+            <controls:PivotItem Header="Tornada">
+                <Grid>
+                    <ListBox Name="tornada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="Pendent" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Código de ejemplo que muestra el uso de ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Botón 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Botón 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 1"/>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

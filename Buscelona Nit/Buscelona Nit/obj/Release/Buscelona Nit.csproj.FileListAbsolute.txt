@@ -1,0 +1,50 @@
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\ApplicationIcon.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Background.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona Nit.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona Nit.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\AppManifest.xaml
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona_Nit.xap
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\App.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\MainPage.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N0.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N1.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N11.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N2.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N3.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N4.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N5.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N6.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N7.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N8.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N9.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.g.resources
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\XapCacheFile.xml
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Background.png
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona Nit.dll
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona Nit.pdb
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\AppManifest.xaml
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Buscelona_Nit.xap
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\App.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N0.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N1.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N11.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N2.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N3.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N4.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N5.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N6.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N7.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N8.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\N9.g.i.cs
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.g.resources
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.dll
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\Buscelona Nit.pdb
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Release\XapCacheFile.xml
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Microsoft.Phone.Controls.dll
+D:\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Release\Microsoft.Phone.Controls.xml

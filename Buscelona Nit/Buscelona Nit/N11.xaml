@@ -1,0 +1,81 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Buscelona_Nit.N11"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Control Pivot-->
+        <controls:Pivot Title="Buscelona Nit - N11">
+            <!--Elemento Pivot uno-->
+            <controls:PivotItem Header="Anada">
+                <Grid>
+                    <ListBox Name="anada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="Pl. Catalunya" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Gran Via C. C." Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. Sant Joan" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. Lluís Companys" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. Pujades" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Av. Meridiana" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pallars" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pere IV" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Bernat Metge" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="St. Adrià - Argentina" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="St. Adrià - Biscaia" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="St. Adrià - Guipúscoa" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="St. Adrià - Av. Pi i Margall" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Alfons XIII" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Francesc Macià" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Creu" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Francesc Layret" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Germà Juli" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. President Companys" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Pomar" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Sabadell" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Terrassa" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Granollers" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. de la Cerdanya" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Ctra. de Can Ruti" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Llenguadoc" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Cª. del Canyet" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Cª. a Montcada" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Hospital Can Ruti" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Elemento Pivot dos-->
+            <controls:PivotItem Header="Tornada">
+                <Grid>
+                    <ListBox Name="tornada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="Pendent" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+
+    <!--Código de ejemplo que muestra el uso de ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Botón 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Botón 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 1"/>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

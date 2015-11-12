@@ -1,0 +1,24 @@
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\App.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\MainPage.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N0.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N1.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N11.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N2.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N3.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N4.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N5.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N6.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N7.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N8.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\N9.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\Buscelona Nit.g.resources
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\ApplicationIcon.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\Background.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\Buscelona Nit.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\Buscelona Nit.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\Buscelona Nit.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\Buscelona Nit.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\AppManifest.xaml
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\Bin\Debug\Buscelona_Nit.xap
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Buscelona Nit\Buscelona Nit\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,88 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Buscelona_Nit.N2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Control Pivot-->
+        <controls:Pivot Title="Buscelona Nit - N2">
+            <!--Elemento Pivot uno-->
+            <controls:PivotItem Header="Anada">
+                <Grid>
+                    <ListBox Name="anada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Av. Carrilet" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Enric Prat de la Riba" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Av. Isabel la Catòlica" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Sant Rafael" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Av. Masnou" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Av. Ponent" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Montseny" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="L'HO - Progrés" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Sants" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Creu Coberta" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Gran Via C. C." Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pl. Catalunya" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Pg. de Gràcia" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="Gran Via C. C." Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="S. Adrià - Biscaia" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="S. Adrià - Guipúscoa" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="S. Adrià - Ricart" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="S. Adrià - Mossèn Cinto Verdaguer" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Joan XXIII" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Ctra. Santa Coloma" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Cardenal Vidal i Barraquer" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Rda. St. Antoni Llefià" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Marquès de Sant Mori" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Calderón de la Barca" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Caritg" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Lloreda" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Rbla. Sant Joan" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Puigfred" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. dels Vents" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Bufalà" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Bac de Roda" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Primer de Maig" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Sabadell" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. Pomar" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Av. President Companys" Height="40" />
+                        <TextBlock Width="450" FontSize="22" Text="BDN - Via Augusta" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Elemento Pivot dos-->
+            <controls:PivotItem Header="Tornada">
+                <Grid>
+                    <ListBox Name="tornada" Margin="0,0,0,0">
+                        <TextBlock Width="450" FontSize="22" Text="Pendent" Height="40" />
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+    <!--Código de ejemplo que muestra el uso de ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Botón 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Botón 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 1"/>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
